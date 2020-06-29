@@ -1,2 +1,2 @@
 # LAN-Pizza-Chat
- Permette di creare un ordine di pizze e di chattare tra membri della stessa LAN
+Un progettino per ordinare le pizze e per chattare tra membri della stessa LAN
