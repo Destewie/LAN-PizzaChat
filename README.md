@@ -1,9 +1,9 @@
 # LAN-Pizza-Chat
-Un progettino per ordinare le pizze e per chattare tra membri della stessa LAN
+Un progettino per ordinare le pizze e per chattare tra membri della stessa LAN.
 
 # Utilizzo
-L'utilizzo non è complicato: basta che un utente avvii la versione server e che tutti gli altri si colleghino a lui tramite la versione client <br>
-Come da titolo, funziona solo in un ambiente locale (LAN)
+L'utilizzo non è complicato: basta che un utente avvii la versione server e che tutti gli altri si colleghino a lui tramite la versione client. <br>
+Come da titolo, funziona solo in un ambiente locale (LAN).
 
 # Attenzione
 Sono al corrente che il progetto non sia perfetto e presenti alcuni bug... <br>
