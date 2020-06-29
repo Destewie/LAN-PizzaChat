@@ -1,0 +1,50 @@
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.pdb
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.frmClient.resources
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.Properties.Resources.resources
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.GenerateResource.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.pdb
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe.config
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.pdb
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csprojAssemblyReference.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.frmClient.resources
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.Properties.Resources.resources
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.GenerateResource.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.exe
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\8) LAN Chat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.pdb
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe.config
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.pdb
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csprojAssemblyReference.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.frmClient.resources
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.Properties.Resources.resources
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.GenerateResource.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.exe
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\Visuali e più aggiornati\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.pdb
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe.config
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.pdb
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csprojAssemblyReference.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.frmClient.resources
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.Properties.Resources.resources
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.GenerateResource.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.exe
+C:\Users\Des.DESKTOP-M6O4DR0\Des\Progetti\Pregettini carini del Des\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.pdb
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.pdb
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.frmClient.resources
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.Properties.Resources.resources
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.GenerateResource.cache
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.exe
+Y:\2) Progettini carini del Des\5 Superiore\9) LAN PizzaChat\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.pdb

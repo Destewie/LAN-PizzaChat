@@ -1,0 +1,7 @@
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\bin\Debug\ProvaServer.pdb
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ProvaServer.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ProvaServer.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ProvaServer.exe
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ProvaServer.pdb

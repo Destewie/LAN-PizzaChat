@@ -1,0 +1,19 @@
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.exe
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.pdb
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaClientV3\ProvaClientV3\obj\Debug\ChatClient.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaClientV3\ProvaClientV3\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaClientV3\ProvaClientV3\obj\Debug\ProvaClientV3.exe
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaClientV3\ProvaClientV3\obj\Debug\ProvaClientV3.pdb
+C:\Users\5a09\Desktop\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.exe.config
+C:\Users\5a09\Desktop\ProvaClientV3\ProvaClientV3\obj\Debug\ProvaClientV3.exe
+C:\Users\5a09\Desktop\ProvaClientV3\ProvaClientV3\obj\Debug\ProvaClientV3.pdb
+C:\Users\5a09\Desktop\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.exe
+C:\Users\5a09\Desktop\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.pdb
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaClientV3\ProvaClientV3\bin\Debug\ProvaClientV3.pdb
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaClientV3\ProvaClientV3\obj\Debug\ChatClient.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaClientV3\ProvaClientV3\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaClientV3\ProvaClientV3\obj\Debug\ProvaClientV3.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaClientV3\ProvaClientV3\obj\Debug\ProvaClientV3.pdb

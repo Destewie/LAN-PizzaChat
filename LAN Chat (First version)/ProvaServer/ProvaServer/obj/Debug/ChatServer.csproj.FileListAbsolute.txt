@@ -1,0 +1,27 @@
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\bin\Debug\ProvaServer.pdb
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ProvaServer.exe
+Y:\2) Progettini carini del Des\5 Superiore\Client Server C#\ProvaServer\ProvaServer\obj\Debug\ProvaServer.pdb
+C:\Users\5a09\Desktop\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe.config
+C:\Users\5a09\Desktop\ProvaServer\ProvaServer\obj\Debug\ProvaServer.exe
+C:\Users\5a09\Desktop\ProvaServer\ProvaServer\obj\Debug\ProvaServer.pdb
+C:\Users\5a09\Desktop\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe
+C:\Users\5a09\Desktop\ProvaServer\ProvaServer\bin\Debug\ProvaServer.pdb
+C:\Users\5a09\Desktop\ProvaServer\ProvaServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe.config
+C:\Users\Utente\Desktop\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe
+C:\Users\Utente\Desktop\ProvaServer\ProvaServer\bin\Debug\ProvaServer.pdb
+C:\Users\Utente\Desktop\ProvaServer\ProvaServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\ProvaServer\ProvaServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ProvaServer\ProvaServer\obj\Debug\ProvaServer.exe
+C:\Users\Utente\Desktop\ProvaServer\ProvaServer\obj\Debug\ProvaServer.pdb
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaServer\ProvaServer\bin\Debug\ProvaServer.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaServer\ProvaServer\bin\Debug\ProvaServer.pdb
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaServer\ProvaServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaServer\ProvaServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaServer\ProvaServer\obj\Debug\ProvaServer.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\ProvaServer\ProvaServer\obj\Debug\ProvaServer.pdb

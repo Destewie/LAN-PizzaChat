@@ -1,0 +1,10 @@
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe.config
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\bin\Debug\VisualChatClient.pdb
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csprojAssemblyReference.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.frmClient.resources
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.Properties.Resources.resources
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.GenerateResource.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.csproj.CoreCompileInputs.cache
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.exe
+Y:\2) Progettini carini del Des\5 Superiore\LAN Chat\Visuale\VisualChatClient\VisualChatClient\obj\Debug\VisualChatClient.pdb

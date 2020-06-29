@@ -1,0 +1,2 @@
+Questa è stata una versione "Trampolino di lancio" che poi è stata migliorata in LAN pizza chat.
+(Grazie anche all'aggiunta della feature "Ordina la pizza!", gestisci utenti, bla bla bla...)
